@@ -13,8 +13,7 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/lib/pq v1.0.0 // indirect
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/stretchr/testify v1.3.0
 	golang.org/x/crypto v0.0.0-20181112202954-3d3f9f413869 // indirect
 	google.golang.org/appengine v1.3.0 // indirect
-	gopkg.in/stretchr/testify.v1 v1.2.2
 )
